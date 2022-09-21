@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanishaNicholas
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning laminas
+- 🌱 I’m currently learning Front End Development
 - 📫 How to reach me lanishanicholas@gmail.com
 
 <!---

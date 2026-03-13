@@ -56,6 +56,6 @@ Et lite spill laget for å utforske JavaScript‑logikk og animasjon.
 ---
 
 ## 🤝 La oss koble!
-💼 LinkedIn: *legg inn lenken din her*  
+💼 LinkedIn: https://www.linkedin.com/in/lanisha-nicholas/
 📧 E‑post: lanishanicholas@gmail.com  
 

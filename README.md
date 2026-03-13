@@ -1,49 +1,35 @@
 <!-- Header -->
-<h1 align="center">👋 Hei, jeg er <span style="color:#7F5AF0">Lanisha Nicholas</span></h1>
-<h3 align="center">Fullstackutvikler • Frontend-spesialist • På vei inn i AI Engineering</h3>
+<h1 align="center">🌼 Hei, jeg er <span style="color:#FF6EC7">Lanisha Nicholas</span> 👋</h1>
+<h3 align="center">Fullstackutvikler • Frontend-spesialist • AI Engineering in Progress</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Oslo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-In%20Progress-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Oslo-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-Learning-87CEFA?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Om meg
+## 🌟 Om meg
 Jeg er en fullstackutvikler med nesten fem års erfaring innen moderne webutvikling.  
-Jeg elsker å bygge **brukervennlige, raske og skalerbare applikasjoner**, og nå utvider jeg kompetansen min innen **AI Engineering, RAG‑systemer og ML‑verktøy**.
+Jeg elsker å bygge **brukervennlige, raske og skalerbare applikasjoner**, og jeg utvikler meg nå videre innen **AI Engineering, RAG‑systemer og ML‑verktøy**.
+
+Jeg kombinerer struktur, kreativitet og nysgjerrighet — og jeg trives best når jeg får bygge løsninger som faktisk betyr noe.
 
 ---
 
-## 🧠 Kjernekompetanse
-### 🖥️ Frontend
-- React • Next.js • JavaScript (ES6+)  
-- Tailwind CSS • HTML5 • CSS3 • Redux  
-
-### ⚙️ Backend
-- Node.js • Java (Spring Boot) • PHP • .NET  
-
-### 🗄️ Databaser & API
-- REST API • SQL • MySQL • Postman  
-
-### 🛠️ DevOps & Verktøy
-- Git • GitHub Actions (CI/CD) • AWS  
-
----
-
-## 🎨 Teknologier & Verktøy
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,java,spring,php,dotnet,mysql,aws,git,github" />
+## 🧁 Mine teknologier (cute + techy edition)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,java,spring,php,dotnet,mysql,aws,git,github&theme=light" />
 </p>
 
 ---
 
 ## 🔥 Hva jeg jobber med nå
-- Bygger **AI‑drevne applikasjoner** (RAG, embeddings, FAISS, LangChain)  
-- Forbedrer testdekning og CI/CD‑pipelines  
-- Lager porteføljeprosjekter innen fullstack + AI  
-- Utforsker 3D‑visualisering og interaktive UI‑opplevelser  
+- 🌸 Bygger **AI‑drevne applikasjoner** (RAG, embeddings, FAISS, LangChain)  
+- ⚡ Forbedrer testdekning og CI/CD‑pipelines  
+- 🎨 Utforsker 3D‑visualisering og interaktive UI‑opplevelser  
+- 📚 Lager porteføljeprosjekter innen fullstack + AI  
 
 ---
 
@@ -65,15 +51,20 @@ Et lite spill laget for å utforske JavaScript‑logikk og animasjon.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (cute mode)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LanishaNicholas&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanishaNicholas&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LanishaNicholas&show_icons=true&theme=rose_pine" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanishaNicholas&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-## 🤝 La oss koble!
-- 💼 LinkedIn: *https://www.linkedin.com/in/lanisha-nicholas/* 
-- 📧 E‑post: **lanishanicholas@gmail.com**
+## 💌 La oss koble!
+<p align="center">
+  <a href="https://www.linkedin.com/in/lanisha-nicholas/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">📧 lanishanicholas@gmail.com</p>
 

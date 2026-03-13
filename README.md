@@ -18,7 +18,7 @@ Jeg kombinerer struktur, kreativitet og nysgjerrighet — og jeg trives best nå
 
 ---
 
-## 🧁 Mine teknologier (cute + techy edition)
+##  Mine teknologier
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,nodejs,java,spring,php,dotnet,mysql,aws,git,github&theme=light" />
 </p>
